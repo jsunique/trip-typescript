@@ -1,1 +1,53 @@
 @import "tailwindcss";
+@plugin "daisyui";
+
+@plugin "daisyui/theme" {
+  name:"light";
+  default:true;
+  --color-base-100:#f8fcff;
+  --color-base-200:#fff;
+  --color-base-content:#173D46;
+  --color-primary:#174854;
+  --color-primary-content:#fff;
+  --color-accent:#B99A61;
+}
+@plugin "daisyui/theme" {
+  name:"dark";
+  --color-base-100: #081D29;
+  --color-base-200: #193A45;
+  --color-base-content:#E6EFEC;
+  --color-primary: #D9B278;
+  --color-primary-content: #102C37;
+  --color-accent:#E0BD7B;
+}
+@font-face {
+  font-family: 'pop';
+  src: url('assets/fonts/Poppins/Poppins-Regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'pop';
+  src: url('assets/fonts/Poppins/Poppins-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'pop';
+  src: url('assets/fonts/Poppins/Poppins-SemiBold.ttf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'pop';
+  src: url('assets/fonts/Poppins/Poppins-Bold.ttf');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'header';
+  src: url('assets/fonts/Berkshire_Swash/header.ttf');
+}
+@theme{
+  --font-header:'header';
+  --font-pop:'pop';
+}
