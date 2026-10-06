@@ -1,0 +1,1578 @@
+[
+  {
+    "code": "af",
+    "name": "Afghanistan",
+    "landmark": "Minaret of Jam",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jam_afghan_architecture_harirud_brick.jpg?width=960",
+    "imageAlt": "Minaret of Jam in Afghanistan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Jam_afghan_architecture_harirud_brick.jpg"
+  },
+  {
+    "code": "al",
+    "name": "Albania",
+    "landmark": "Butrint",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre_of_Butrint_2009.jpg?width=960",
+    "imageAlt": "Butrint in Albania",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Butrint_2009.jpg"
+  },
+  {
+    "code": "dz",
+    "name": "Algeria",
+    "landmark": "Timgad",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Timgad_(15685889550).jpg?width=960",
+    "imageAlt": "Timgad in Algeria",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Timgad_%2815685889550%29.jpg"
+  },
+  {
+    "code": "ad",
+    "name": "Andorra",
+    "landmark": "Casa de la Vall",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CASA_DE_LA_VALL.jpg?width=960",
+    "imageAlt": "Casa de la Vall in Andorra",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACASA_DE_LA_VALL.jpg"
+  },
+  {
+    "code": "ao",
+    "name": "Angola",
+    "landmark": "Fortress of São Miguel",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luanda-SMiguelFort2.jpg?width=960",
+    "imageAlt": "Fortress of São Miguel in Angola",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Luanda-SMiguelFort2.jpg"
+  },
+  {
+    "code": "ag",
+    "name": "Antigua and Barbuda",
+    "landmark": "Nelson's Dockyard",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelson_Dockyard.jpg?width=960",
+    "imageAlt": "Nelson's Dockyard in Antigua and Barbuda",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ANelson_Dockyard.jpg"
+  },
+  {
+    "code": "ar",
+    "name": "Argentina",
+    "landmark": "Cueva de las Manos",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SantaCruz-CuevaManos-P2210651b.jpg?width=960",
+    "imageAlt": "Cueva de las Manos in Argentina",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:SantaCruz-CuevaManos-P2210651b.jpg"
+  },
+  {
+    "code": "am",
+    "name": "Armenia",
+    "landmark": "Geghard",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monasterio_de_Geghard%2C_Armenia%2C_2016-10-02%2C_DD_63.jpg?width=960",
+    "imageAlt": "Geghard in Armenia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Geghard%2C_Armenia%2C_2016-10-02%2C_DD_63.jpg"
+  },
+  {
+    "code": "au",
+    "name": "Australia",
+    "landmark": "Sydney Opera House",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney_Australia._(21339175489).jpg?width=960",
+    "imageAlt": "Sydney Opera House in Australia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._%2821339175489%29.jpg"
+  },
+  {
+    "code": "at",
+    "name": "Austria",
+    "landmark": "Schönbrunn Palace",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG?width=960",
+    "imageAlt": "Schönbrunn Palace in Austria",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijan",
+    "landmark": "Maiden Tower (Baku)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maiden_Tower_in_Baku%2C_Azerbaijan.jpg?width=960",
+    "imageAlt": "Maiden Tower (Baku) in Azerbaijan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AMaiden_Tower_in_Baku%2C_Azerbaijan.jpg"
+  },
+  {
+    "code": "bs",
+    "name": "Bahamas",
+    "landmark": "Fort Fincastle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Fincastle%2C_Nassau%2C_Bahamas.jpg?width=960",
+    "imageAlt": "Fort Fincastle in Bahamas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFort_Fincastle%2C_Nassau%2C_Bahamas.jpg"
+  },
+  {
+    "code": "bh",
+    "name": "Bahrain",
+    "landmark": "Qal'at al-Bahrain",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahrain_Fort.jpg?width=960",
+    "imageAlt": "Qal'at al-Bahrain in Bahrain",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABahrain_Fort.jpg"
+  },
+  {
+    "code": "bd",
+    "name": "Bangladesh",
+    "landmark": "Somapura Mahavihara",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Somapura_Mahavihara.jpg?width=960",
+    "imageAlt": "Somapura Mahavihara in Bangladesh",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ASomapura_Mahavihara.jpg"
+  },
+  {
+    "code": "bb",
+    "name": "Barbados",
+    "landmark": "St Nicholas Abbey",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Nicholas_Abbey%2C_Barbados.jpg?width=960",
+    "imageAlt": "St Nicholas Abbey in Barbados",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ASt_Nicholas_Abbey%2C_Barbados.jpg"
+  },
+  {
+    "code": "by",
+    "name": "Belarus",
+    "landmark": "Mir Castle Complex",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG?width=960",
+    "imageAlt": "Mir Castle Complex in Belarus",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG"
+  },
+  {
+    "code": "be",
+    "name": "Belgium",
+    "landmark": "Grand-Place",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Place%2C_Brussels%2C_Belgium.jpg?width=960",
+    "imageAlt": "Grand-Place in Belgium",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGrand_Place%2C_Brussels%2C_Belgium.jpg"
+  },
+  {
+    "code": "bz",
+    "name": "Belize",
+    "landmark": "Caracol",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Belize_caracol.jpg?width=960",
+    "imageAlt": "Caracol in Belize",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABelize_caracol.jpg"
+  },
+  {
+    "code": "bj",
+    "name": "Benin",
+    "landmark": "Royal Palaces of Abomey",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Palaces_of_Abomey-133470.jpg?width=960",
+    "imageAlt": "Royal Palaces of Abomey in Benin",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ARoyal_Palaces_of_Abomey-133470.jpg"
+  },
+  {
+    "code": "bt",
+    "name": "Bhutan",
+    "landmark": "Paro Taktsang",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paro_Taktsang%2C_Bhutan_(edited).jpg?width=960",
+    "imageAlt": "Paro Taktsang in Bhutan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AParo_Taktsang%2C_Bhutan_%28edited%29.jpg"
+  },
+  {
+    "code": "bo",
+    "name": "Bolivia",
+    "landmark": "Tiwanaku",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PUERTA_DEL_SOL_TIWANAKU.jpg?width=960",
+    "imageAlt": "Tiwanaku in Bolivia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:PUERTA_DEL_SOL_TIWANAKU.jpg"
+  },
+  {
+    "code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "landmark": "Stari Most",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostar_Old_Town_Panorama_2007.jpg?width=960",
+    "imageAlt": "Stari Most in Bosnia and Herzegovina",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg"
+  },
+  {
+    "code": "bw",
+    "name": "Botswana",
+    "landmark": "Tsodilo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsodilo_Hills%2C_Botswana.jpg?width=960",
+    "imageAlt": "Tsodilo in Botswana",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATsodilo_Hills%2C_Botswana.jpg"
+  },
+  {
+    "code": "br",
+    "name": "Brazil",
+    "landmark": "Christ the Redeemer (statue)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christ_the_Redeemer_-_Cristo_Redentor.jpg?width=960",
+    "imageAlt": "Christ the Redeemer (statue) in Brazil",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+  },
+  {
+    "code": "bn",
+    "name": "Brunei",
+    "landmark": "Omar Ali Saifuddien Mosque",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sultan_Omar_Ali_Saifuddin_Mosque_with_the_ceremonial_ship.jpg?width=960",
+    "imageAlt": "Omar Ali Saifuddien Mosque in Brunei",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_with_the_ceremonial_ship.jpg"
+  },
+  {
+    "code": "bg",
+    "name": "Bulgaria",
+    "landmark": "Rila Monastery",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rila_Monastery%2C_August_2013.jpg?width=960",
+    "imageAlt": "Rila Monastery in Bulgaria",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Rila_Monastery%2C_August_2013.jpg"
+  },
+  {
+    "code": "bf",
+    "name": "Burkina Faso",
+    "landmark": "Ruins of Loropéni",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni(Poni_Prv.)%2CBF_sun15may2016-1119h.jpg?width=960",
+    "imageAlt": "Ruins of Loropéni in Burkina Faso",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3A2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1119h.jpg"
+  },
+  {
+    "code": "bi",
+    "name": "Burundi",
+    "landmark": "Gishora",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienvenue_%C3%A0_Gishora_au_Burundi%2C_l%C3%A0_o%C3%B9_se_trouvent_des_tambours_uniques_au_monde_que_vous_ne_trouverez_nulle_part_ailleurs._Venez_d%C3%A9couvrir_leur_histoire_et_tout_ce_qui_les_entoure._Bienvenue_au_Burundi.jpg?width=960",
+    "imageAlt": "Gishora in Burundi",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABienvenue_%C3%A0_Gishora_au_Burundi%2C_l%C3%A0_o%C3%B9_se_trouvent_des_tambours_uniques_au_monde_que_vous_ne_trouverez_nulle_part_ailleurs._Venez_d%C3%A9couvrir_leur_histoire_et_tout_ce_qui_les_entoure._Bienvenue_au_Burundi.jpg"
+  },
+  {
+    "code": "cv",
+    "name": "Cabo Verde",
+    "landmark": "Cidade Velha",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cidade_Velha%2C_Cabo_Verde_1.jpg?width=960",
+    "imageAlt": "Cidade Velha in Cabo Verde",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACidade_Velha%2C_Cabo_Verde_1.jpg"
+  },
+  {
+    "code": "kh",
+    "name": "Cambodia",
+    "landmark": "Angkor Wat",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Angkor_Wat.jpg?width=960",
+    "imageAlt": "Angkor Wat in Cambodia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg"
+  },
+  {
+    "code": "cm",
+    "name": "Cameroon",
+    "landmark": "Foumban Royal Palace",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sultans_Palace%2C_Foumban.jpg?width=960",
+    "imageAlt": "Foumban Royal Palace in Cameroon",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AThe_Sultans_Palace%2C_Foumban.jpg"
+  },
+  {
+    "code": "ca",
+    "name": "Canada",
+    "landmark": "Château Frontenac",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau_Frontenac_02.jpg?width=960",
+    "imageAlt": "Château Frontenac in Canada",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg"
+  },
+  {
+    "code": "cf",
+    "name": "Central African Republic",
+    "landmark": "Dzanga-Sangha Special Reserve",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Forest_Elephants%2C_Dzanga_Bai%2C_Central_African_Republic_2.jpg?width=960",
+    "imageAlt": "Dzanga-Sangha Special Reserve in Central African Republic",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AForest_Elephants%2C_Dzanga_Bai%2C_Central_African_Republic_2.jpg"
+  },
+  {
+    "code": "td",
+    "name": "Chad",
+    "landmark": "Lakes of Ounianga",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/OuniangaLakes_of_Ounianga_Lakes_(24362206542).jpg?width=960",
+    "imageAlt": "Lakes of Ounianga in Chad",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AOuniangaLakes_of_Ounianga_Lakes_%2824362206542%29.jpg"
+  },
+  {
+    "code": "cl",
+    "name": "Chile",
+    "landmark": "Ahu Tongariki",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahu_Tongariki.jpg?width=960",
+    "imageAlt": "Ahu Tongariki in Chile",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAhu_Tongariki.jpg"
+  },
+  {
+    "code": "cn",
+    "name": "China",
+    "landmark": "Great Wall of China",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_wall_of_China.jpg?width=960",
+    "imageAlt": "Great Wall of China in China",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGreat_wall_of_China.jpg"
+  },
+  {
+    "code": "co",
+    "name": "Colombia",
+    "landmark": "Castillo San Felipe de Barajas",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Castillo_de_San_Felipe_de_Barajas.jpg?width=960",
+    "imageAlt": "Castillo San Felipe de Barajas in Colombia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACastillo_de_San_Felipe_de_Barajas.jpg"
+  },
+  {
+    "code": "km",
+    "name": "Comoros",
+    "landmark": "Old Friday Mosque",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancienne_Mosquee_du_Vendredi_(10886895544).jpg?width=960",
+    "imageAlt": "Old Friday Mosque in Comoros",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAncienne_Mosquee_du_Vendredi_%2810886895544%29.jpg"
+  },
+  {
+    "code": "cg",
+    "name": "Republic of the Congo",
+    "landmark": "Basilique Sainte-Anne du Congo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazzaville_-_Basilique_Sainte-Anne-du-Congo.jpg?width=960",
+    "imageAlt": "Basilique Sainte-Anne du Congo in Republic of the Congo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABrazzaville_-_Basilique_Sainte-Anne-du-Congo.jpg"
+  },
+  {
+    "code": "cd",
+    "name": "Democratic Republic of the Congo",
+    "landmark": "Virunga National Park",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virunga_National_Park-119504.jpg?width=960",
+    "imageAlt": "Virunga National Park in Democratic Republic of the Congo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AVirunga_National_Park-119504.jpg"
+  },
+  {
+    "code": "cr",
+    "name": "Costa Rica",
+    "landmark": "Guayabo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guayabo.jpg?width=960",
+    "imageAlt": "Guayabo in Costa Rica",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGuayabo.jpg"
+  },
+  {
+    "code": "ci",
+    "name": "Côte d'Ivoire",
+    "landmark": "Grand-Bassam",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand-BassamTribunal.jpg?width=960",
+    "imageAlt": "Grand-Bassam in Côte d'Ivoire",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGrand-BassamTribunal.jpg"
+  },
+  {
+    "code": "hr",
+    "name": "Croatia",
+    "landmark": "Diocletian's Palace",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Croatia-01341_-_Diocletian's_Palace_(9549575391).jpg?width=960",
+    "imageAlt": "Diocletian's Palace in Croatia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACroatia-01341_-_Diocletian%27s_Palace_%289549575391%29.jpg"
+  },
+  {
+    "code": "cu",
+    "name": "Cuba",
+    "landmark": "Castillo de la Real Fuerza",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Castillo_de_la_Real_Fuerza%2C_Havana%2C_Cuba.jpg?width=960",
+    "imageAlt": "Castillo de la Real Fuerza in Cuba",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACastillo_de_la_Real_Fuerza%2C_Havana%2C_Cuba.jpg"
+  },
+  {
+    "code": "cy",
+    "name": "Cyprus",
+    "landmark": "Kourion",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Early_Christian_Basilica_dating_to_the_beginning_of_the_5th_century_AD%2C_Kourion%2C_Cyprus_(23914317694).jpg?width=960",
+    "imageAlt": "Kourion in Cyprus",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AThe_Early_Christian_Basilica_dating_to_the_beginning_of_the_5th_century_AD%2C_Kourion%2C_Cyprus_%2823914317694%29.jpg"
+  },
+  {
+    "code": "cz",
+    "name": "Czechia",
+    "landmark": "Prague Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prague_castle%2C_Czech_Republic.JPG?width=960",
+    "imageAlt": "Prague Castle in Czechia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APrague_castle%2C_Czech_Republic.JPG"
+  },
+  {
+    "code": "dk",
+    "name": "Denmark",
+    "landmark": "Kronborg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kronborg_002.JPG?width=960",
+    "imageAlt": "Kronborg in Denmark",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Kronborg_002.JPG"
+  },
+  {
+    "code": "dj",
+    "name": "Djibouti",
+    "landmark": "Lake Assal (Djibouti)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Assal_1-Djibouti.jpg?width=960",
+    "imageAlt": "Lake Assal (Djibouti) in Djibouti",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALake_Assal_1-Djibouti.jpg"
+  },
+  {
+    "code": "dm",
+    "name": "Dominica",
+    "landmark": "Morne Trois Pitons National Park",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morne_Trois_Pitons_National_Park%2C_Dominica_-_jungle.jpg?width=960",
+    "imageAlt": "Morne Trois Pitons National Park in Dominica",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AMorne_Trois_Pitons_National_Park%2C_Dominica_-_jungle.jpg"
+  },
+  {
+    "code": "do",
+    "name": "Dominican Republic",
+    "landmark": "Alcázar de Colón",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alc%C3%A1zar_de_Col%C3%B3n.jpg?width=960",
+    "imageAlt": "Alcázar de Colón in Dominican Republic",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAlc%C3%A1zar_de_Col%C3%B3n.jpg"
+  },
+  {
+    "code": "ec",
+    "name": "Ecuador",
+    "landmark": "Ingapirca",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingapirca%2C_Ecuador.jpg?width=960",
+    "imageAlt": "Ingapirca in Ecuador",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AIngapirca%2C_Ecuador.jpg"
+  },
+  {
+    "code": "eg",
+    "name": "Egypt",
+    "landmark": "Great Pyramid of Giza",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?width=960",
+    "imageAlt": "Great Pyramid of Giza in Egypt",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg"
+  },
+  {
+    "code": "sv",
+    "name": "El Salvador",
+    "landmark": "Joya de Cerén",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ES_JoyadeCeren_06_2011_Estructura_9_Area_2_Tamazcal_2106_zoom_out.jpg?width=960",
+    "imageAlt": "Joya de Cerén in El Salvador",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AES_JoyadeCeren_06_2011_Estructura_9_Area_2_Tamazcal_2106_zoom_out.jpg"
+  },
+  {
+    "code": "gq",
+    "name": "Equatorial Guinea",
+    "landmark": "St. Elizabeth's Cathedral, Malabo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PanoramaCathedralSquareMalabo2013.jpg?width=960",
+    "imageAlt": "St. Elizabeth's Cathedral, Malabo in Equatorial Guinea",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APanoramaCathedralSquareMalabo2013.jpg"
+  },
+  {
+    "code": "er",
+    "name": "Eritrea",
+    "landmark": "Fiat Tagliero Building",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fiat_tagliero%2C_08.JPG?width=960",
+    "imageAlt": "Fiat Tagliero Building in Eritrea",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Fiat_tagliero%2C_08.JPG"
+  },
+  {
+    "code": "ee",
+    "name": "Estonia",
+    "landmark": "Toompea Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toompea_loss_2014.jpg?width=960",
+    "imageAlt": "Toompea Castle in Estonia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Toompea_loss_2014.jpg"
+  },
+  {
+    "code": "sz",
+    "name": "Eswatini",
+    "landmark": "Mlilwane Wildlife Sanctuary",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mlilwane_Wildlife_Sanctuary_in_Eswatini_banner.jpg?width=960",
+    "imageAlt": "Mlilwane Wildlife Sanctuary in Eswatini",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AMlilwane_Wildlife_Sanctuary_in_Eswatini_banner.jpg"
+  },
+  {
+    "code": "et",
+    "name": "Ethiopia",
+    "landmark": "Church of Saint George",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lalibela%2C_san_giorgio%2C_esterno_24.jpg?width=960",
+    "imageAlt": "Church of Saint George, Lalibela in Ethiopia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Lalibela%2C_san_giorgio%2C_esterno_24.jpg"
+  },
+  {
+    "code": "fj",
+    "name": "Fiji",
+    "landmark": "Levuka",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BeachStreetLevuka.jpg?width=960",
+    "imageAlt": "Levuka in Fiji",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABeachStreetLevuka.jpg"
+  },
+  {
+    "code": "fi",
+    "name": "Finland",
+    "landmark": "Suomenlinna",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suomenlinna_aerial.JPG?width=960",
+    "imageAlt": "Suomenlinna in Finland",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Suomenlinna_aerial.JPG"
+  },
+  {
+    "code": "fr",
+    "name": "France",
+    "landmark": "Palace of Versailles",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg?width=960",
+    "imageAlt": "Palace of Versailles in France",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_%28cropped%29.jpg"
+  },
+  {
+    "code": "ga",
+    "name": "Gabon",
+    "landmark": "Loango National Park",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loango_National_Park.jpg?width=960",
+    "imageAlt": "Loango National Park in Gabon",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALoango_National_Park.jpg"
+  },
+  {
+    "code": "gm",
+    "name": "Gambia",
+    "landmark": "Kunta Kinteh Island",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunta_Kinteh_Island_banner.jpg?width=960",
+    "imageAlt": "Kunta Kinteh Island in Gambia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKunta_Kinteh_Island_banner.jpg"
+  },
+  {
+    "code": "ge",
+    "name": "Georgia",
+    "landmark": "Jvari Monastery",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgia_Jvari_monastery_IMG_9345_2070.jpg?width=960",
+    "imageAlt": "Jvari Monastery in Georgia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Georgia_Jvari_monastery_IMG_9345_2070.jpg"
+  },
+  {
+    "code": "de",
+    "name": "Germany",
+    "landmark": "Brandenburg Gate",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brandenburger_Tor_abends.jpg?width=960",
+    "imageAlt": "Brandenburg Gate in Germany",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg"
+  },
+  {
+    "code": "gh",
+    "name": "Ghana",
+    "landmark": "Cape Coast Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape_Coast_Castle%2C_Cape_Coast%2C_Ghana.JPG?width=960",
+    "imageAlt": "Cape Coast Castle in Ghana",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Cape_Coast_Castle%2C_Cape_Coast%2C_Ghana.JPG"
+  },
+  {
+    "code": "gr",
+    "name": "Greece",
+    "landmark": "Parthenon",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Parthenon_in_Athens.jpg?width=960",
+    "imageAlt": "Parthenon in Greece",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg"
+  },
+  {
+    "code": "gd",
+    "name": "Grenada",
+    "landmark": "Fort George, Grenada",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_George%2C_Grenada_(13226182623).jpg?width=960",
+    "imageAlt": "Fort George, Grenada in Grenada",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFort_George%2C_Grenada_%2813226182623%29.jpg"
+  },
+  {
+    "code": "gt",
+    "name": "Guatemala",
+    "landmark": "Tikal",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tikal_3.jpg?width=960",
+    "imageAlt": "Tikal in Guatemala",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Tikal_3.jpg"
+  },
+  {
+    "code": "gn",
+    "name": "Guinea",
+    "landmark": "Fouta Djallon",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guinee_Fouta_Djalon_Canyon.jpg?width=960",
+    "imageAlt": "Fouta Djallon in Guinea",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGuinee_Fouta_Djalon_Canyon.jpg"
+  },
+  {
+    "code": "gw",
+    "name": "Guinea-Bissau",
+    "landmark": "Bissagos Islands",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilhas_Bijagos%2C_GUine_Bissau.jpg?width=960",
+    "imageAlt": "Bissagos Islands in Guinea-Bissau",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AIlhas_Bijagos%2C_GUine_Bissau.jpg"
+  },
+  {
+    "code": "gy",
+    "name": "Guyana",
+    "landmark": "Kaieteur Falls",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaieteur_Falls%2C_Guyana.jpg?width=960",
+    "imageAlt": "Kaieteur Falls in Guyana",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKaieteur_Falls%2C_Guyana.jpg"
+  },
+  {
+    "code": "ht",
+    "name": "Haiti",
+    "landmark": "Citadelle Laferrière",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle_Laferri%C3%A8re.jpg?width=960",
+    "imageAlt": "Citadelle Laferrière in Haiti",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACitadelle_Laferri%C3%A8re.jpg"
+  },
+  {
+    "code": "hn",
+    "name": "Honduras",
+    "landmark": "Copán",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cop%C3%A1n_archaeological_site%2C_Honduras_01.jpg?width=960",
+    "imageAlt": "Copán in Honduras",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACop%C3%A1n_archaeological_site%2C_Honduras_01.jpg"
+  },
+  {
+    "code": "hu",
+    "name": "Hungary",
+    "landmark": "Buda Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Buda_castle.jpg?width=960",
+    "imageAlt": "Buda Castle in Hungary",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABuda_castle.jpg"
+  },
+  {
+    "code": "is",
+    "name": "Iceland",
+    "landmark": "Þingvellir",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Eingvellir%2C_Iceland_(20885804201).jpg?width=960",
+    "imageAlt": "Þingvellir in Iceland",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3A%C3%9Eingvellir%2C_Iceland_%2820885804201%29.jpg"
+  },
+  {
+    "code": "in",
+    "name": "India",
+    "landmark": "Taj Mahal",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_India.jpg?width=960",
+    "imageAlt": "Taj Mahal in India",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATaj_Mahal_India.jpg"
+  },
+  {
+    "code": "id",
+    "name": "Indonesia",
+    "landmark": "Borobudur",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indonesia_Borobudur_Temple.jpg?width=960",
+    "imageAlt": "Borobudur in Indonesia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AIndonesia_Borobudur_Temple.jpg"
+  },
+  {
+    "code": "ir",
+    "name": "Iran",
+    "landmark": "Persepolis",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Persepolis%2C_Iran(1).jpg?width=960",
+    "imageAlt": "Persepolis in Iran",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APersepolis%2C_Iran%281%29.jpg"
+  },
+  {
+    "code": "iq",
+    "name": "Iraq",
+    "landmark": "Great Mosque of Samarra",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Mosque_of_Samarra.jpg?width=960",
+    "imageAlt": "Great Mosque of Samarra in Iraq",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGreat_Mosque_of_Samarra.jpg"
+  },
+  {
+    "code": "ie",
+    "name": "Ireland",
+    "landmark": "Newgrange",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Irelands_history.jpg?width=960",
+    "imageAlt": "Newgrange in Ireland",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Irelands_history.jpg"
+  },
+  {
+    "code": "il",
+    "name": "Israel",
+    "landmark": "Masada",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel-2013-Aerial_21-Masada.jpg?width=960",
+    "imageAlt": "Masada in Israel",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg"
+  },
+  {
+    "code": "it",
+    "name": "Italy",
+    "landmark": "Colosseum",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseo_2020.jpg?width=960",
+    "imageAlt": "Colosseum in Italy",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+  },
+  {
+    "code": "jm",
+    "name": "Jamaica",
+    "landmark": "Rose Hall, Montego Bay",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose_Hall_(Jamaica).jpg?width=960",
+    "imageAlt": "Rose Hall, Montego Bay in Jamaica",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ARose_Hall_%28Jamaica%29.jpg"
+  },
+  {
+    "code": "jp",
+    "name": "Japan",
+    "landmark": "Himeji Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Himeji_castle_in_may_2015.jpg?width=960",
+    "imageAlt": "Himeji Castle in Japan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg"
+  },
+  {
+    "code": "jo",
+    "name": "Jordan",
+    "landmark": "Petra",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Deir_Petra.JPG?width=960",
+    "imageAlt": "Petra in Jordan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG"
+  },
+  {
+    "code": "kz",
+    "name": "Kazakhstan",
+    "landmark": "Mausoleum of Khoja Ahmed Yasawi",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_(%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD).jpg?width=960",
+    "imageAlt": "Mausoleum of Khoja Ahmed Yasawi in Kazakhstan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%B5%D1%98_%D0%A5%D0%BE%D0%B4%D0%B6%D0%B5_%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D0%B0_%D0%88%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_%28%D0%B3%D1%80%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%29.jpg"
+  },
+  {
+    "code": "ke",
+    "name": "Kenya",
+    "landmark": "Fort Jesus",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Jesus_at_the_Mombasa_Island.jpg?width=960",
+    "imageAlt": "Fort Jesus in Kenya",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Fort_Jesus_at_the_Mombasa_Island.jpg"
+  },
+  {
+    "code": "ki",
+    "name": "Kiribati",
+    "landmark": "Phoenix Islands Protected Area",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phoenix_Islands_Protected_Area-114868.jpg?width=960",
+    "imageAlt": "Phoenix Islands Protected Area in Kiribati",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APhoenix_Islands_Protected_Area-114868.jpg"
+  },
+  {
+    "code": "kp",
+    "name": "North Korea",
+    "landmark": "Kumsusan Palace of the Sun",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumsusan_Palace_of_the_Sun_(11338272534).jpg?width=960",
+    "imageAlt": "Kumsusan Palace of the Sun in North Korea",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKumsusan_Palace_of_the_Sun_%2811338272534%29.jpg"
+  },
+  {
+    "code": "kr",
+    "name": "South Korea",
+    "landmark": "Gyeongbokgung",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?width=960",
+    "imageAlt": "Gyeongbokgung in South Korea",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg"
+  },
+  {
+    "code": "kw",
+    "name": "Kuwait",
+    "landmark": "Kuwait Towers",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuwait_towers.jpg?width=960",
+    "imageAlt": "Kuwait Towers in Kuwait",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKuwait_towers.jpg"
+  },
+  {
+    "code": "kg",
+    "name": "Kyrgyzstan",
+    "landmark": "Burana Tower",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyrgyzstan_Burana_tower.jpg?width=960",
+    "imageAlt": "Burana Tower in Kyrgyzstan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKyrgyzstan_Burana_tower.jpg"
+  },
+  {
+    "code": "la",
+    "name": "Laos",
+    "landmark": "Wat Xieng Thong",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Xieng_Thong_Laos.JPG?width=960",
+    "imageAlt": "Wat Xieng Thong in Laos",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AWat_Xieng_Thong_Laos.JPG"
+  },
+  {
+    "code": "lv",
+    "name": "Latvia",
+    "landmark": "Rundāle Palace",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rund%C4%81le_Palace%2C_Latvia.jpg?width=960",
+    "imageAlt": "Rundāle Palace in Latvia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ARund%C4%81le_Palace%2C_Latvia.jpg"
+  },
+  {
+    "code": "lb",
+    "name": "Lebanon",
+    "landmark": "Baalbek",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baalbek%2C_Lebanon.JPG?width=960",
+    "imageAlt": "Baalbek in Lebanon",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABaalbek%2C_Lebanon.JPG"
+  },
+  {
+    "code": "ls",
+    "name": "Lesotho",
+    "landmark": "Maletsunyane Falls",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesotho_maletsunyane_falls.jpg?width=960",
+    "imageAlt": "Maletsunyane Falls in Lesotho",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALesotho_maletsunyane_falls.jpg"
+  },
+  {
+    "code": "lr",
+    "name": "Liberia",
+    "landmark": "Providence Island (Liberia)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Providence_Island_view_of_downtown_Monrovia.jpg?width=960",
+    "imageAlt": "Providence Island (Liberia) in Liberia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AProvidence_Island_view_of_downtown_Monrovia.jpg"
+  },
+  {
+    "code": "ly",
+    "name": "Libya",
+    "landmark": "Leptis Magna",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leptis_Magna.jpg?width=960",
+    "imageAlt": "Leptis Magna in Libya",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALeptis_Magna.jpg"
+  },
+  {
+    "code": "li",
+    "name": "Liechtenstein",
+    "landmark": "Vaduz Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vaduz_Castle.JPG?width=960",
+    "imageAlt": "Vaduz Castle in Liechtenstein",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AVaduz_Castle.JPG"
+  },
+  {
+    "code": "lt",
+    "name": "Lithuania",
+    "landmark": "Trakai Island Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trakai_castle_2016.jpg?width=960",
+    "imageAlt": "Trakai Island Castle in Lithuania",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Trakai_castle_2016.jpg"
+  },
+  {
+    "code": "lu",
+    "name": "Luxembourg",
+    "landmark": "Vianden Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Burg_Vianden%2C_Luxemburg.jpg?width=960",
+    "imageAlt": "Vianden Castle in Luxembourg",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Burg_Vianden%2C_Luxemburg.jpg"
+  },
+  {
+    "code": "mg",
+    "name": "Madagascar",
+    "landmark": "Ambohimanga",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambohimanga_hill_Madagascar.jpg?width=960",
+    "imageAlt": "Ambohimanga in Madagascar",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAmbohimanga_hill_Madagascar.jpg"
+  },
+  {
+    "code": "mw",
+    "name": "Malawi",
+    "landmark": "Lake Malawi National Park",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_malawi_national_park.jpg?width=960",
+    "imageAlt": "Lake Malawi National Park in Malawi",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALake_malawi_national_park.jpg"
+  },
+  {
+    "code": "my",
+    "name": "Malaysia",
+    "landmark": "A Famosa",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Famosa_Fortress.JPG?width=960",
+    "imageAlt": "A Famosa in Malaysia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:A_Famosa_Fortress.JPG"
+  },
+  {
+    "code": "mv",
+    "name": "Maldives",
+    "landmark": "Malé Friday Mosque",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Male'_Hukuru_Miskiy_4.jpg?width=960",
+    "imageAlt": "Malé Friday Mosque in Maldives",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AMale%27_Hukuru_Miskiy_4.jpg"
+  },
+  {
+    "code": "ml",
+    "name": "Mali",
+    "landmark": "Great Mosque of Djenné",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Djenne_great_mud_mosque.jpg?width=960",
+    "imageAlt": "Great Mosque of Djenné in Mali",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg"
+  },
+  {
+    "code": "mt",
+    "name": "Malta",
+    "landmark": "Ħaġar Qim",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Facade_Hagar_Qim.jpg?width=960",
+    "imageAlt": "Ħaġar Qim in Malta",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Facade_Hagar_Qim.jpg"
+  },
+  {
+    "code": "mh",
+    "name": "Marshall Islands",
+    "landmark": "Bikini Atoll",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bikini_Atoll%2C_Marshall_Islands_(35055478541).jpg?width=960",
+    "imageAlt": "Bikini Atoll in Marshall Islands",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABikini_Atoll%2C_Marshall_Islands_%2835055478541%29.jpg"
+  },
+  {
+    "code": "mr",
+    "name": "Mauritania",
+    "landmark": "Chinguetti",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinguetti_old_town.jpg?width=960",
+    "imageAlt": "Chinguetti in Mauritania",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AChinguetti_old_town.jpg"
+  },
+  {
+    "code": "mu",
+    "name": "Mauritius",
+    "landmark": "Aapravasi Ghat",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg?width=960",
+    "imageAlt": "Aapravasi Ghat in Mauritius",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg"
+  },
+  {
+    "code": "mx",
+    "name": "Mexico",
+    "landmark": "Chichen Itza",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen_Itza_3.jpg?width=960",
+    "imageAlt": "Chichen Itza in Mexico",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+  },
+  {
+    "code": "fm",
+    "name": "Micronesia",
+    "landmark": "Nan Madol",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nan_madol.jpg?width=960",
+    "imageAlt": "Nan Madol in Micronesia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Nan_madol.jpg"
+  },
+  {
+    "code": "md",
+    "name": "Moldova",
+    "landmark": "Orheiul Vechi",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanca_deasupra_Rautului_Butuceni.jpg?width=960",
+    "imageAlt": "Orheiul Vechi in Moldova",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Stanca_deasupra_Rautului_Butuceni.jpg"
+  },
+  {
+    "code": "mc",
+    "name": "Monaco",
+    "landmark": "Prince's Palace of Monaco",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince's_Palace_of_Monaco.jpg?width=960",
+    "imageAlt": "Prince's Palace of Monaco in Monaco",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APrince%27s_Palace_of_Monaco.jpg"
+  },
+  {
+    "code": "mn",
+    "name": "Mongolia",
+    "landmark": "Erdene Zuu Monastery",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ErdeneZuuMonasteryMongolia.JPG?width=960",
+    "imageAlt": "Erdene Zuu Monastery in Mongolia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AErdeneZuuMonasteryMongolia.JPG"
+  },
+  {
+    "code": "me",
+    "name": "Montenegro",
+    "landmark": "Kotor",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kotor_with_Montenegro_Flag.jpg?width=960",
+    "imageAlt": "Kotor in Montenegro",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKotor_with_Montenegro_Flag.jpg"
+  },
+  {
+    "code": "ma",
+    "name": "Morocco",
+    "landmark": "Aït Benhaddou",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ait_ben_hadou_morocco.JPG?width=960",
+    "imageAlt": "Aït Benhaddou in Morocco",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAit_ben_hadou_morocco.JPG"
+  },
+  {
+    "code": "mz",
+    "name": "Mozambique",
+    "landmark": "Fort São Sebastião",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg?width=960",
+    "imageAlt": "Fort São Sebastião in Mozambique",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg"
+  },
+  {
+    "code": "mm",
+    "name": "Myanmar",
+    "landmark": "Bagan",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bagan%2C_Burma.jpg?width=960",
+    "imageAlt": "Bagan in Myanmar",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ABagan%2C_Burma.jpg"
+  },
+  {
+    "code": "na",
+    "name": "Namibia",
+    "landmark": "Twyfelfontein",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Twyfelfontein.jpg?width=960",
+    "imageAlt": "Twyfelfontein in Namibia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATwyfelfontein.jpg"
+  },
+  {
+    "code": "nr",
+    "name": "Nauru",
+    "landmark": "Command Ridge",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru-WWIIrelic.jpg?width=960",
+    "imageAlt": "Command Ridge in Nauru",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ANauru-WWIIrelic.jpg"
+  },
+  {
+    "code": "np",
+    "name": "Nepal",
+    "landmark": "Swayambhunath",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Swayambhunath_2018.jpg?width=960",
+    "imageAlt": "Swayambhunath in Nepal",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Swayambhunath_2018.jpg"
+  },
+  {
+    "code": "nl",
+    "name": "Netherlands",
+    "landmark": "Kinderdijk",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KinderdijkMolens02.jpg?width=960",
+    "imageAlt": "Kinderdijk in Netherlands",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg"
+  },
+  {
+    "code": "nz",
+    "name": "New Zealand",
+    "landmark": "Waitangi Treaty Grounds",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Te_whare_runanga.jpg?width=960",
+    "imageAlt": "Waitangi Treaty Grounds in New Zealand",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Te_whare_runanga.jpg"
+  },
+  {
+    "code": "ni",
+    "name": "Nicaragua",
+    "landmark": "León Cathedral",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral_Leon_Nicaragua.jpg?width=960",
+    "imageAlt": "León Cathedral in Nicaragua",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACatedral_Leon_Nicaragua.jpg"
+  },
+  {
+    "code": "ne",
+    "name": "Niger",
+    "landmark": "Agadez Mosque",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1997_277-9A_Agadez_mosque.jpg?width=960",
+    "imageAlt": "Agadez Mosque in Niger",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3A1997_277-9A_Agadez_mosque.jpg"
+  },
+  {
+    "code": "ng",
+    "name": "Nigeria",
+    "landmark": "Osun-Osogbo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Osun_groove_Osogbo.jpg?width=960",
+    "imageAlt": "Osun-Osogbo in Nigeria",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Osun_groove_Osogbo.jpg"
+  },
+  {
+    "code": "mk",
+    "name": "North Macedonia",
+    "landmark": "Church of Saint John at Kaneo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_St._John_at_Kaneo_6.jpg?width=960",
+    "imageAlt": "Church of Saint John at Kaneo in North Macedonia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Church_of_St._John_at_Kaneo_6.jpg"
+  },
+  {
+    "code": "no",
+    "name": "Norway",
+    "landmark": "Borgund Stave Church",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Borgund_Stave_Church_in_L%C3%A6rdalen%2C_2013_June.jpg?width=960",
+    "imageAlt": "Borgund Stave Church in Norway",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Borgund_Stave_Church_in_L%C3%A6rdalen%2C_2013_June.jpg"
+  },
+  {
+    "code": "om",
+    "name": "Oman",
+    "landmark": "Bahla Fort",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahla_Fort.jpg?width=960",
+    "imageAlt": "Bahla Fort in Oman",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Bahla_Fort.jpg"
+  },
+  {
+    "code": "pk",
+    "name": "Pakistan",
+    "landmark": "Mohenjo-daro",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohenjodaro_-_view_of_the_stupa_mound.JPG?width=960",
+    "imageAlt": "Mohenjo-daro in Pakistan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Mohenjodaro_-_view_of_the_stupa_mound.JPG"
+  },
+  {
+    "code": "pw",
+    "name": "Palau",
+    "landmark": "Rock Islands",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Islands%2C_Palau.jpg?width=960",
+    "imageAlt": "Rock Islands in Palau",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ARock_Islands%2C_Palau.jpg"
+  },
+  {
+    "code": "ps",
+    "name": "Palestine",
+    "landmark": "Hisham's Palace",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hishams_Palace_site_view_Author_MDarter.jpg?width=960",
+    "imageAlt": "Hisham's Palace in Palestine",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AHishams_Palace_site_view_Author_MDarter.jpg"
+  },
+  {
+    "code": "pa",
+    "name": "Panama",
+    "landmark": "Panamá Viejo",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panam%C3%A1_Viejo.jpg?width=960",
+    "imageAlt": "Panamá Viejo in Panama",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APanam%C3%A1_Viejo.jpg"
+  },
+  {
+    "code": "pg",
+    "name": "Papua New Guinea",
+    "landmark": "Kuk Swamp",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuk_New_Guinea_2002.jpg?width=960",
+    "imageAlt": "Kuk Swamp in Papua New Guinea",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AKuk_New_Guinea_2002.jpg"
+  },
+  {
+    "code": "py",
+    "name": "Paraguay",
+    "landmark": "La Santísima Trinidad de Paraná",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_-_pulpit.jpg?width=960",
+    "imageAlt": "La Santísima Trinidad de Paraná in Paraguay",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALa_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_-_pulpit.jpg"
+  },
+  {
+    "code": "pe",
+    "name": "Peru",
+    "landmark": "Machu Picchu",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peru_machu_picchu.jpg?width=960",
+    "imageAlt": "Machu Picchu in Peru",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APeru_machu_picchu.jpg"
+  },
+  {
+    "code": "ph",
+    "name": "Philippines",
+    "landmark": "San Agustin Church (Manila)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Agustin_Church_Manila.jpg?width=960",
+    "imageAlt": "San Agustin Church (Manila) in Philippines",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ASan_Agustin_Church_Manila.jpg"
+  },
+  {
+    "code": "pl",
+    "name": "Poland",
+    "landmark": "Wawel Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wawel_Castle.jpg?width=960",
+    "imageAlt": "Wawel Castle in Poland",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AWawel_Castle.jpg"
+  },
+  {
+    "code": "pt",
+    "name": "Portugal",
+    "landmark": "Belém Tower",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Torre_Bel%C3%A9m_April_2009-4a.jpg?width=960",
+    "imageAlt": "Belém Tower in Portugal",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg"
+  },
+  {
+    "code": "qa",
+    "name": "Qatar",
+    "landmark": "Zubarah",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Zubarah_Fort_qatar.jpg?width=960",
+    "imageAlt": "Zubarah in Qatar",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAl_Zubarah_Fort_qatar.jpg"
+  },
+  {
+    "code": "ro",
+    "name": "Romania",
+    "landmark": "Bran Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Castelul_Bran2.jpg?width=960",
+    "imageAlt": "Bran Castle in Romania",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Castelul_Bran2.jpg"
+  },
+  {
+    "code": "ru",
+    "name": "Russia",
+    "landmark": "Saint Basil's Cathedral",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Basil's_Cathedral_in_Moscow.jpg?width=960",
+    "imageAlt": "Saint Basil's Cathedral in Russia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg"
+  },
+  {
+    "code": "rw",
+    "name": "Rwanda",
+    "landmark": "Kigali Genocide Memorial",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%AA%D7%A8_%D7%94%D7%94%D7%A0%D7%A6%D7%97%D7%94_%D7%9C%D7%A8%D7%A6%D7%97_%D7%94%D7%A2%D7%9D_%D7%91%D7%A8%D7%95%D7%90%D7%A0%D7%93%D7%94_%D7%91%D7%A7%D7%99%D7%92%D7%90%D7%9C%D7%99_12.jpg?width=960",
+    "imageAlt": "Kigali Genocide Memorial in Rwanda",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%AA%D7%A8_%D7%94%D7%94%D7%A0%D7%A6%D7%97%D7%94_%D7%9C%D7%A8%D7%A6%D7%97_%D7%94%D7%A2%D7%9D_%D7%91%D7%A8%D7%95%D7%90%D7%A0%D7%93%D7%94_%D7%91%D7%A7%D7%99%D7%92%D7%90%D7%9C%D7%99_12.jpg"
+  },
+  {
+    "code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "landmark": "Brimstone Hill Fortress National Park",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BrimstoneHill01.jpg?width=960",
+    "imageAlt": "Brimstone Hill Fortress National Park in Saint Kitts and Nevis",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:BrimstoneHill01.jpg"
+  },
+  {
+    "code": "lc",
+    "name": "Saint Lucia",
+    "landmark": "Pitons",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/THE_PITONS_-_ST._LUCIA.jpg?width=960",
+    "imageAlt": "Pitons in Saint Lucia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATHE_PITONS_-_ST._LUCIA.jpg"
+  },
+  {
+    "code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "landmark": "Botanical Gardens St. Vincent",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Vincent%2C_Karibik_-_Botanical_Garden_of_Kingstown_-_panoramio.jpg?width=960",
+    "imageAlt": "Botanical Gardens St. Vincent in Saint Vincent and the Grenadines",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ASt._Vincent%2C_Karibik_-_Botanical_Garden_of_Kingstown_-_panoramio.jpg"
+  },
+  {
+    "code": "ws",
+    "name": "Samoa",
+    "landmark": "Robert Louis Stevenson Museum",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Lewis_Stevenson_Museum.jpg?width=960",
+    "imageAlt": "Robert Louis Stevenson Museum in Samoa",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ARobert_Lewis_Stevenson_Museum.jpg"
+  },
+  {
+    "code": "sm",
+    "name": "San Marino",
+    "landmark": "Guaita",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_(details).jpg?width=960",
+    "imageAlt": "Guaita in San Marino",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg"
+  },
+  {
+    "code": "st",
+    "name": "São Tomé and Príncipe",
+    "landmark": "São Sebastião Museum",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_S%C3%A3o_Sebasti%C3%A3o_(S%C3%A3o_Tom%C3%A9)_(10).jpg?width=960",
+    "imageAlt": "São Sebastião Museum in São Tomé and Príncipe",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFort_S%C3%A3o_Sebasti%C3%A3o_%28S%C3%A3o_Tom%C3%A9%29_%2810%29.jpg"
+  },
+  {
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "landmark": "Hegra (Mada'in Salih)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hegra_(Mada'in_Salih)%2C_the_kingdom's_second_Nabatean_capital_after_Petra%2C_Saudi_Arabia.jpg?width=960",
+    "imageAlt": "Hegra (Mada'in Salih) in Saudi Arabia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AHegra_%28Mada%27in_Salih%29%2C_the_kingdom%27s_second_Nabatean_capital_after_Petra%2C_Saudi_Arabia.jpg"
+  },
+  {
+    "code": "sn",
+    "name": "Senegal",
+    "landmark": "Gorée",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Goree-island-senegal.png?width=960",
+    "imageAlt": "Gorée in Senegal",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGoree-island-senegal.png"
+  },
+  {
+    "code": "rs",
+    "name": "Serbia",
+    "landmark": "Studenica Monastery",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Studenica_Monastery.jpg?width=960",
+    "imageAlt": "Studenica Monastery in Serbia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AStudenica_Monastery.jpg"
+  },
+  {
+    "code": "sc",
+    "name": "Seychelles",
+    "landmark": "Vallée de Mai",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vallee_de_mai.jpg?width=960",
+    "imageAlt": "Vallée de Mai in Seychelles",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AVallee_de_mai.jpg"
+  },
+  {
+    "code": "sl",
+    "name": "Sierra Leone",
+    "landmark": "Bunce Island",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_slave_fort_on_Bunce_Island%2C_at_the_mouth_of_the_Sierra_Leone_River_in_West_Africa.jpg?width=960",
+    "imageAlt": "Bunce Island in Sierra Leone",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AThe_slave_fort_on_Bunce_Island%2C_at_the_mouth_of_the_Sierra_Leone_River_in_West_Africa.jpg"
+  },
+  {
+    "code": "sg",
+    "name": "Singapore",
+    "landmark": "Fort Canning",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Gate%2C_Fort_Canning_Park%2C_Singapore_-_20110429.jpg?width=960",
+    "imageAlt": "Fort Canning in Singapore",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFort_Gate%2C_Fort_Canning_Park%2C_Singapore_-_20110429.jpg"
+  },
+  {
+    "code": "sk",
+    "name": "Slovakia",
+    "landmark": "Spiš Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spis_Castle_-_Slovakia.jpg?width=960",
+    "imageAlt": "Spiš Castle in Slovakia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ASpis_Castle_-_Slovakia.jpg"
+  },
+  {
+    "code": "si",
+    "name": "Slovenia",
+    "landmark": "Predjama Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PredjamaCastle.jpg?width=960",
+    "imageAlt": "Predjama Castle in Slovenia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3APredjamaCastle.jpg"
+  },
+  {
+    "code": "sb",
+    "name": "Solomon Islands",
+    "landmark": "Marovo Lagoon",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marovo_Lagoon_(16_August_2008).jpg?width=960",
+    "imageAlt": "Marovo Lagoon in Solomon Islands",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AMarovo_Lagoon_%2816_August_2008%29.jpg"
+  },
+  {
+    "code": "so",
+    "name": "Somalia",
+    "landmark": "Laas Geel",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laas_Geel.jpg?width=960",
+    "imageAlt": "Laas Geel in Somalia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALaas_Geel.jpg"
+  },
+  {
+    "code": "za",
+    "name": "South Africa",
+    "landmark": "Robben Island",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robben_Island_-_Cape_Town%2C_South_Africa_(3883849594).jpg?width=960",
+    "imageAlt": "Robben Island in South Africa",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg"
+  },
+  {
+    "code": "ss",
+    "name": "South Sudan",
+    "landmark": "John Garang Memorial",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Garang_Mausoleum_Square_in_Juba.JPG?width=960",
+    "imageAlt": "John Garang Memorial in South Sudan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AJohn_Garang_Mausoleum_Square_in_Juba.JPG"
+  },
+  {
+    "code": "es",
+    "name": "Spain",
+    "landmark": "Alhambra",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?width=960",
+    "imageAlt": "Alhambra in Spain",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg"
+  },
+  {
+    "code": "lk",
+    "name": "Sri Lanka",
+    "landmark": "Sigiriya",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigiriya_(141688197).jpeg?width=960",
+    "imageAlt": "Sigiriya in Sri Lanka",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Sigiriya_%28141688197%29.jpeg"
+  },
+  {
+    "code": "sd",
+    "name": "Sudan",
+    "landmark": "Meroë",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NubianMeroePyramids30sep2005(2).jpg?width=960",
+    "imageAlt": "Meroë in Sudan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:NubianMeroePyramids30sep2005%282%29.jpg"
+  },
+  {
+    "code": "sr",
+    "name": "Suriname",
+    "landmark": "Fort Zeelandia (Paramaribo)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Zeelandia_Paramaribo.jpg?width=960",
+    "imageAlt": "Fort Zeelandia (Paramaribo) in Suriname",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFort_Zeelandia_Paramaribo.jpg"
+  },
+  {
+    "code": "se",
+    "name": "Sweden",
+    "landmark": "Drottningholm Palace",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Drottningholm_Palace_from_the_Garden.jpg?width=960",
+    "imageAlt": "Drottningholm Palace in Sweden",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ADrottningholm_Palace_from_the_Garden.jpg"
+  },
+  {
+    "code": "ch",
+    "name": "Switzerland",
+    "landmark": "Chillon Castle",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg?width=960",
+    "imageAlt": "Chillon Castle in Switzerland",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "code": "sy",
+    "name": "Syria",
+    "landmark": "Krak des Chevaliers",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg?width=960",
+    "imageAlt": "Krak des Chevaliers in Syria",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:KRAK_DES_CHEVALIERS_-_GAR_-_6-00.jpg"
+  },
+  {
+    "code": "tj",
+    "name": "Tajikistan",
+    "landmark": "Hisor Fortress",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tajikistan_-_Hissor_Fortress_(489352546).jpg?width=960",
+    "imageAlt": "Hisor Fortress in Tajikistan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATajikistan_-_Hissor_Fortress_%28489352546%29.jpg"
+  },
+  {
+    "code": "tz",
+    "name": "Tanzania",
+    "landmark": "Kilwa Kisiwani",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Mosque_Kilwa_Interior.jpg?width=960",
+    "imageAlt": "Kilwa Kisiwani in Tanzania",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Interior.jpg"
+  },
+  {
+    "code": "th",
+    "name": "Thailand",
+    "landmark": "Wat Arun",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg?width=960",
+    "imageAlt": "Wat Arun in Thailand",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg"
+  },
+  {
+    "code": "tl",
+    "name": "Timor-Leste",
+    "landmark": "Cristo Rei of Dili",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristo_Rei_of_Dili%2C_Timor-Leste.jpg?width=960",
+    "imageAlt": "Cristo Rei of Dili in Timor-Leste",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ACristo_Rei_of_Dili%2C_Timor-Leste.jpg"
+  },
+  {
+    "code": "tg",
+    "name": "Togo",
+    "landmark": "Koutammakou",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Koutammakou%2C_pays_des_Batammariba_du_Togo.jpg?width=960",
+    "imageAlt": "Koutammakou in Togo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALe_Koutammakou%2C_pays_des_Batammariba_du_Togo.jpg"
+  },
+  {
+    "code": "to",
+    "name": "Tonga",
+    "landmark": "Haʻamonga ʻa Maui",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha%CA%BBamonga_%CA%BBa_Maui_-_2012.jpg?width=960",
+    "imageAlt": "Haʻamonga ʻa Maui in Tonga",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AHa%CA%BBamonga_%CA%BBa_Maui_-_2012.jpg"
+  },
+  {
+    "code": "tt",
+    "name": "Trinidad and Tobago",
+    "landmark": "Fort King George",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TOBAGO-fort-king-george-kanonen.jpg?width=960",
+    "imageAlt": "Fort King George in Trinidad and Tobago",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATOBAGO-fort-king-george-kanonen.jpg"
+  },
+  {
+    "code": "tn",
+    "name": "Tunisia",
+    "landmark": "Amphitheatre of El Jem",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre_El_Jem_Tunisie.jpg?width=960",
+    "imageAlt": "Amphitheatre of El Jem in Tunisia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAmphitheatre_El_Jem_Tunisie.jpg"
+  },
+  {
+    "code": "tr",
+    "name": "Turkey",
+    "landmark": "Library of Celsus",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Library_of_Celsus%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_(53526881327).jpg?width=960",
+    "imageAlt": "Library of Celsus in Turkey",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ALibrary_of_Celsus%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526881327%29.jpg"
+  },
+  {
+    "code": "tm",
+    "name": "Turkmenistan",
+    "landmark": "Merv",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkmenistan_Merv.jpg?width=960",
+    "imageAlt": "Merv in Turkmenistan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ATurkmenistan_Merv.jpg"
+  },
+  {
+    "code": "tv",
+    "name": "Tuvalu",
+    "landmark": "Funafuti Conservation Area",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Funafuti_Atoll%2C_Tuvalu_(153047_-_funafuti_oli_20230928_lrg).jpg?width=960",
+    "imageAlt": "Funafuti Conservation Area in Tuvalu",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFunafuti_Atoll%2C_Tuvalu_%28153047_-_funafuti_oli_20230928_lrg%29.jpg"
+  },
+  {
+    "code": "ug",
+    "name": "Uganda",
+    "landmark": "Kasubi Tombs",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kampala_Kasubi_Tombs.jpg?width=960",
+    "imageAlt": "Kasubi Tombs in Uganda",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Kampala_Kasubi_Tombs.jpg"
+  },
+  {
+    "code": "ua",
+    "name": "Ukraine",
+    "landmark": "Saint Sophia Cathedral, Kyiv",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/80-391-0151_Kyiv_St.Sophia's_Cathedral_RB_18_2_(cropped).jpg?width=960",
+    "imageAlt": "Saint Sophia Cathedral, Kyiv in Ukraine",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg"
+  },
+  {
+    "code": "ae",
+    "name": "United Arab Emirates",
+    "landmark": "Al Jahili Fort",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al-Jahili-Fort.jpg?width=960",
+    "imageAlt": "Al Jahili Fort in United Arab Emirates",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AAl-Jahili-Fort.jpg"
+  },
+  {
+    "code": "gb",
+    "name": "United Kingdom",
+    "landmark": "Stonehenge",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge2007_07_30.jpg?width=960",
+    "imageAlt": "Stonehenge in United Kingdom",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg"
+  },
+  {
+    "code": "us",
+    "name": "United States",
+    "landmark": "Statue of Liberty",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Front_view_of_Statue_of_Liberty_(cropped).jpg?width=960",
+    "imageAlt": "Statue of Liberty in United States",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_%28cropped%29.jpg"
+  },
+  {
+    "code": "uy",
+    "name": "Uruguay",
+    "landmark": "Colonia del Sacramento",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg?width=960",
+    "imageAlt": "Colonia del Sacramento in Uruguay",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg"
+  },
+  {
+    "code": "uz",
+    "name": "Uzbekistan",
+    "landmark": "Registan",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RegistanSquare_Samarkand.jpg?width=960",
+    "imageAlt": "Registan in Uzbekistan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.jpg"
+  },
+  {
+    "code": "vu",
+    "name": "Vanuatu",
+    "landmark": "Chief Roi Mata's Domain",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chief_Roimata's_grave_(08_Jan_2017).jpg?width=960",
+    "imageAlt": "Chief Roi Mata's Domain in Vanuatu",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AChief_Roimata%27s_grave_%2808_Jan_2017%29.jpg"
+  },
+  {
+    "code": "va",
+    "name": "Vatican City",
+    "landmark": "St. Peter's Basilica",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?width=960",
+    "imageAlt": "St. Peter's Basilica in Vatican City",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+  },
+  {
+    "code": "ve",
+    "name": "Venezuela",
+    "landmark": "Angel Falls",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SaltoAngel1.jpg?width=960",
+    "imageAlt": "Angel Falls in Venezuela",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:SaltoAngel1.jpg"
+  },
+  {
+    "code": "vn",
+    "name": "Vietnam",
+    "landmark": "Imperial City of Huế",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietnam%2C_Hue%2C_Imperial_City_of_Hue%2C_Inner_grounds.jpg?width=960",
+    "imageAlt": "Imperial City of Huế in Vietnam",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AVietnam%2C_Hue%2C_Imperial_City_of_Hue%2C_Inner_grounds.jpg"
+  },
+  {
+    "code": "ye",
+    "name": "Yemen",
+    "landmark": "Dar al-Hajar",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dar-Al_Hajar.png?width=960",
+    "imageAlt": "Dar al-Hajar in Yemen",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3ADar-Al_Hajar.png"
+  },
+  {
+    "code": "zm",
+    "name": "Zambia",
+    "landmark": "Victoria Falls",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoria_Falls_Zambia.jpg?width=960",
+    "imageAlt": "Victoria Falls in Zambia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AVictoria_Falls_Zambia.jpg"
+  },
+  {
+    "code": "zw",
+    "name": "Zimbabwe",
+    "landmark": "Great Zimbabwe",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Zimbabwe.jpg?width=960",
+    "imageAlt": "Great Zimbabwe in Zimbabwe",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AGreat_Zimbabwe.jpg"
+  },
+  {
+    "code": "xk",
+    "name": "Kosovo",
+    "landmark": "Visoki Dečani",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Visoki_De%C4%8Dani.jpg?width=960",
+    "imageAlt": "Visoki Dečani in Kosovo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AVisoki_De%C4%8Dani.jpg"
+  },
+  {
+    "code": "tw",
+    "name": "Taiwan",
+    "landmark": "Fort Zeelandia (Taiwan)",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort_Zealandia_Taiwan.jpg?width=960",
+    "imageAlt": "Fort Zeelandia (Taiwan) in Taiwan",
+    "photoSource": "https://commons.wikimedia.org/wiki/File%3AFort_Zealandia_Taiwan.jpg"
+  }
+]
