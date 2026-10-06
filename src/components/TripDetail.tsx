@@ -1,6 +1,7 @@
 import React, { useContext, useState } from 'react'
 import { useParams } from 'react-router'
 import { AppContext } from '../context/AppContext'
+import App from '../App';
 
 export default function TripDetail() {
   const [editingBudget, setEditingBudget] = useState(false);
@@ -9,12 +10,22 @@ export default function TripDetail() {
   const [expenseTitle, setExpenseTitle] = useState("");
   const [expenseAmount, setExpenseAmount] = useState("");
   const {countryName} = useParams();
-  const {state , dispatch} = useContext(AppContext);
-  const currentUser = state.users[state.currentUserId];
   const [showingInput , setShowingInput] = useState(false);
   const [showingInputA , setShowingInputA] = useState(false);
   const [inputC , setInputC] = useState("");
   const [inputA , setInputA] = useState("");
+  const Context = useContext(AppContext);
+  if(Context === null){
+    throw new Error("this is problem")
+  }
+  const {state , dispatch} = Context;
+  if (state.currentUserId === null) {
+    return <p>Please log in first</p>
+  }
+  const currentUser = state.users[state.currentUserId];
+  if (countryName===undefined) {
+    return <p>Country Couldn't find</p>
+  }
   const trip = currentUser?.trips?.[countryName];
   const spent = trip.expenses.reduce(
   (sum, expense) => sum + expense.amount,
@@ -41,6 +52,9 @@ export default function TripDetail() {
     setInputA("");
   }
   function addExpense() {
+  if (countryName === undefined) {
+    return;
+  }
   const title = expenseTitle.trim();
   const amount = Number(expenseAmount);
 
@@ -56,6 +70,9 @@ export default function TripDetail() {
   setShowingExpenseInput(false);
 }
 function saveBudget() {
+  if (countryName === undefined) {
+    return;
+  }
   if (budgetInput.trim() === "") return;
 
   const budget = Number(budgetInput);

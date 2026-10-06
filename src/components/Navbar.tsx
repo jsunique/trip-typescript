@@ -1,11 +1,17 @@
 import React, { useContext } from 'react'
 import {Plane , SunMedium , Moon ,UserRoundArrowLeft , UserRound} from 'lucide-react'
-import { Link } from 'lucide-react'
 import { NavLink } from 'react-router'
 import { AppContext } from '../context/AppContext'
-
-export default function Navbar({them , changeTheme}) {
-  const {state} = useContext(AppContext);
+  type NavbarPrps = {
+    them:string,
+    changeTheme:()=>void,
+  }
+export default function Navbar({them , changeTheme}:NavbarPrps) {
+  const context = useContext(AppContext);
+  if (context === null) {
+    throw new Error("this is a problem")
+  }
+  const {state} = context;
   const isLoggedIn = state.currentUserId !== null;
   return (
     <>

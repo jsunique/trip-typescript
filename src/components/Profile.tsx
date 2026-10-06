@@ -6,7 +6,14 @@ import {useNavigate} from 'react-router'
 
 export default function Profile() {
   const navigate = useNavigate();
-  const {state , dispatch } = useContext(AppContext);
+  const context = useContext(AppContext);
+  if (context === null) {
+    throw new Error("this is a problem")
+  }
+  const {state , dispatch } = context;
+  if (state.currentUserId === null) {
+    return <p>please log in first</p>
+  }
   const currentUser = state.users[state.currentUserId];
   const [activeTab , setActiveTab] = useState("favorites");
   const favorites = currentUser?.likes ?? [];
@@ -65,7 +72,7 @@ export default function Profile() {
                 const countryData = countries.find(
                   (item) => item.name === countryName
                 );
-                if((!countryData) || trips =={}){
+                if((!countryData) || trips.length===0){
                   return null;
                 }
                 return(

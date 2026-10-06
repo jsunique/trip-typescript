@@ -5,7 +5,7 @@ import countries from '../data/countries.json'
 import { NavLink } from 'react-router'
 
 export default function Section() {
-  const searchRef = useRef(null);
+  const searchRef = useRef<HTMLDivElement | null>(null);
   const [input , setInput] = useState("");
   const [openModal , setOpenModal] = useState(false);
   const filteredList = countries.filter((country)=>{
@@ -13,7 +13,8 @@ export default function Section() {
     return countryName.includes(input.toLowerCase())
   })
   useEffect(()=>{
-    function handleClick(event){
+    function handleClick(event:PointerEvent){
+      if (!searchRef.current || !(event.target instanceof Node)) return;
       const clickedInside = searchRef.current.contains(event.target);
       if (!clickedInside) {
         setOpenModal(false);

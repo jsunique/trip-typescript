@@ -5,16 +5,24 @@ import countries from "../data/countries.json";
 import { AppContext } from "../context/AppContext";
 
 export default function CountryDetail() {
-  const { state, dispatch } = useContext(AppContext);
+  const context = useContext(AppContext);
+  if (context === null) {
+    throw new Error("this is a problem")
+  }
+  const { state, dispatch } = context;
   const { countryName } = useParams();
-  const [weather, setWeather] = useState(null);
+  const [weather, setWeather] = useState<DailyWeather | null>(null);
   const [loading, setLoading] = useState(true);
 
   const isLoggedIn = state.currentUserId !== null;
-  const currentUser = isLoggedIn ? state.users[state.currentUserId] : null;
+  const currentUser = state.currentUserId !==null ? state.users[state.currentUserId] ?? null : null
   const singleCountry = countries.find((country) => country.name === countryName);
-  const liked = currentUser?.likes?.includes(countryName) ?? false;
-  const addToTrip = Object.hasOwn(currentUser?.trips ?? {}, countryName);
+  const liked = countryName !== undefined && (currentUser?.likes?.includes(countryName) ?? false)
+  const addTOTrip = countryName !== undefined && (Object.hasOwn(currentUser?.trips ?? {}, countryName));
+  type DailyWeather = {
+    temperature_2m_max : number[],
+    temperature_2m_min : number[],
+  }
 
   useEffect(() => {
     if (!singleCountry) return;
@@ -25,6 +33,7 @@ export default function CountryDetail() {
 
     async function loadWeather() {
       try {
+        if (!singleCountry) return;
         const positionUrl = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(singleCountry.name)}&format=jsonv2&limit=1`;
         const positionRequest = await fetch(positionUrl);
         const positions = await positionRequest.json();
@@ -49,11 +58,17 @@ export default function CountryDetail() {
 
   function handleLike() {
     if (!isLoggedIn) return;
+    if (countryName === undefined) {
+      return
+    }
     dispatch({ type: "TOGGLE_LIKE", payload: countryName });
   }
 
   function handleTrip() {
     if (!isLoggedIn) return;
+    if (countryName===undefined) {
+      return
+    }
     dispatch({ type: "TOGGLE_TRIP_COUNTRY", payload: countryName });
   }
 
@@ -98,7 +113,7 @@ export default function CountryDetail() {
             size={30}
           />
           <Plane
-            className={`text-primary transition-all duration-300 ${addToTrip ? "fill-primary" : ""} ${isLoggedIn ? "cursor-pointer" : "cursor-not-allowed opacity-40"}`}
+            className={`text-primary transition-all duration-300 ${addTOTrip ? "fill-primary" : ""} ${isLoggedIn ? "cursor-pointer" : "cursor-not-allowed opacity-40"}`}
             onClick={isLoggedIn ? handleTrip : undefined}
             aria-disabled={!isLoggedIn}
             size={30}

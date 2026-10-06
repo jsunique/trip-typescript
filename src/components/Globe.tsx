@@ -7,10 +7,13 @@ import { useNavigate } from "react-router";
 setWorkerUrl(workerUrl);
 
 export default function Globe() {
-  const containerRef = useRef(null);
+  const containerRef = useRef<HTMLDivElement | null >(null);
   const navigate = useNavigate();
 
   useEffect(() => {
+    if (containerRef.current === null) {
+      return
+    }
     const map = new Map({
       container: containerRef.current,
       style: "https://demotiles.maplibre.org/globe.json",
@@ -18,11 +21,11 @@ export default function Globe() {
       zoom: 1.5,
     });
 
-    let frameId;
-    let previousTime;
-    let paused = false;
+    let frameId: number | undefined;
+    let previousTime : undefined | number;
+    let paused : boolean = false;
 
-    function spin(time) {
+    function spin(time:number) {
       if (!paused && previousTime !== undefined) {
         const delta = time - previousTime;
         const center = map.getCenter();
@@ -116,7 +119,9 @@ export default function Globe() {
     });
 
     return () => {
+      if (frameId !== undefined) {
       cancelAnimationFrame(frameId);
+      }
       canvas.removeEventListener("pointerenter", pause);
       canvas.removeEventListener("pointerleave", resume);
       map.remove();

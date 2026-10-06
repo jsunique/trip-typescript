@@ -7,8 +7,12 @@ export default function Login() {
   const navigate = useNavigate();  
   const [username , setUsername] = useState('');
   const [password , setPassword] = useState('');
-  const [error , setError] = useState("")
-  const {state , dispatch} = useContext(AppContext);
+  const [error , setError] = useState("");
+  const context = useContext(AppContext);
+  if (context === null) {
+    throw new Error("this is a problem")
+  }
+  const {state , dispatch} = context;
   const handleLogin = ()=>{
     if (!username.trim() || !password.trim()) {
       setError("password and username shouldnt be empty");
